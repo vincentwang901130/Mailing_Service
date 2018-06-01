@@ -1,2 +1,3 @@
 # Mailing_Service
-Sample Python Mailing Service 
+In developing
+Simple Python Mailing Service for Church in Ottawa
