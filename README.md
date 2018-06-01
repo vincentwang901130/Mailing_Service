@@ -1,5 +1,5 @@
 # Mailing_Service
-##Under development
+## Under development
 Simple Python Mailing Service for Church in Ottawa
 ###### Feature
 - Subscribe for morning revival (pdf) service 
